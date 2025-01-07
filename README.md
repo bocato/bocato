@@ -2,7 +2,7 @@
 - 👀 I’m deeply interested in mobile development, focusing on iOS architectures and enhancing team culture through innovative programming techniques.
 - 🌱 I’m currently broadening my skills in Kotlin, refreshing my Android knowledge, diving into Kotlin Multiplatform (KMP), and exploring a bit of JavaScript.
 - 💞️ I’m eager to collaborate on Swift open source projects and engage in community discussions. Additionally, I'm offering mentoring sessions at https://mentorcruise.com/mentor/eduardobocato/ to share my knowledge and experience.
-- 📫 How to reach me: Feel free to connect through my LinkedIn at www.linkedin.com/in/bocato. Check out my thoughts and tutorials on bocato.medium.com.
+- 📫 How to reach me: Feel free to connect through my LinkedIn at www.linkedin.com/in/bocato. Check out my thoughts and tutorials on [bocato.medium.com](https://bocato.medium.com).
 
 <!---
 bocato/bocato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
