@@ -1,10 +1,70 @@
-- 👋 Hi, I’m @bocato, originally from Brazil 🇧🇷, currently serving as Lead iOS Software Engineer & Manager in the @adidas Apps Ecosystem, based on the Amsterdam office. My expertise lies in Swift/Objective-C, with a strong passion for modularization, testing, and software design and architecture.
-- 👀 I’m deeply interested in mobile development, focusing on iOS architectures and enhancing team culture through innovative programming techniques.
-- 🌱 I’m currently broadening my skills in Kotlin, refreshing my Android knowledge, diving into Kotlin Multiplatform (KMP), and exploring a bit of JavaScript.
-- 💞️ I’m eager to collaborate on Swift open source projects and engage in community discussions. Additionally, I'm offering mentoring sessions at https://mentorcruise.com/mentor/eduardobocato/ to share my knowledge and experience.
-- 📫 How to reach me: Feel free to connect through my LinkedIn at www.linkedin.com/in/bocato. Check out my thoughts and tutorials on [bocato.medium.com](https://bocato.medium.com).
+<h1 align="center">Hi there, I'm Eduardo Bocato 👋</h1>
 
-<!---
-bocato/bocato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <em>Lead iOS Software Engineer & Manager at <a href="https://github.com/adidas">@adidas</a> Apps Ecosystem</em><br>
+  <em>🇧🇷 Brazilian · 📍 Amsterdam, Netherlands</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bocato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://bocato.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://twitter.com/dubocato"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://mentorcruise.com/mentor/eduardobocato/"><img src="https://img.shields.io/badge/MentorCruise-00B0D8?style=flat&logo=mentor&logoColor=white" alt="MentorCruise"></a>
+</p>
+
+---
+
+## 👨🏻‍💻 About Me
+
+iOS Engineer and Architect with expertise in building scalable mobile applications.
+
+- 🖍️ Wrote my first code with [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) at ~10, built my first website at 12
+- 📱 Wrote my first lines of **Objective-C** in 2010, **iOS as main stack since 2016**
+- 🚀 Shipped **15+ apps** across fintech, e-commerce, food delivery, groceries, and sports
+- 🏢 Currently shaping the **adidas** Apps Ecosystem
+- 🎯 Specialized in **modularization**, **software architecture**, **code quality**, and **technical leadership**
+- 🌱 Exploring **Kotlin Multiplatform (KMP)** and **AI**
+- 🎤 Trying to public speak and share my experiences
+
+---
+
+## 🎤 Talks & Presentations
+
+| Talk | Event | Lang | Link |
+|------|-------|------|------|
+| **Modular at Scale: 250+ modules across adidas Apps** | NSSpain (2025) | EN | [▶️ Watch](https://www.youtube.com/watch?v=Rc-S9RnDuLI) |
+| **adidas Apps Architecture** | CocoaHeadsNL @ adidas HQ Amsterdam (2024) | EN | [▶️ Watch](https://www.youtube.com/watch?v=F6ezwCB8Ti0) |
+| **Dependency Injection: from passing parameters to property wrappers** | iOS Developers Global Summit (2022) | EN | [▶️ Watch](https://www.youtube.com/watch?v=M0c6DGNOUYc) |
+| **Injeção de Dependência com Swift** | Devpass (2022) | PT-BR | [▶️ Watch](https://www.youtube.com/watch?v=0DDeOw5JfIc) |
+
+---
+
+## 🎓 Mentoring
+
+I'm passionate about helping others grow in their iOS careers. I offer mentoring sessions covering:
+
+- 📱 **iOS Development** & **Swift**
+- 🏗️ **Software Architecture** & **Large Scale Apps**
+- 👥 **Leadership** & **Team Culture**
+
+<p align="center">
+  <a href="https://mentorcruise.com/mentor/eduardobocato/">
+    <img src="https://img.shields.io/badge/Book%20a%20Session-MentorCruise-00B0D8?style=for-the-badge" alt="Book a mentoring session">
+  </a>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  I'm always open to interesting conversations, collaborations on Swift open source projects, and community discussions.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bocato">💼 LinkedIn</a> •
+  <a href="https://bocato.medium.com">📝 Medium</a> •
+  <a href="https://twitter.com/dubocato">🐦 Twitter</a> •
+  <a href="https://mentorcruise.com/mentor/eduardobocato/">🧑‍🏫 MentorCruise</a>
+</p>
+
