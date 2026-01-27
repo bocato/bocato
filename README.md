@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eduardo Bocato 👋</h1>
 
 <p align="center">
-  <em>Lead iOS Software Engineer at <a href="https://github.com/adidas">@adidas</a> Apps Ecosystem</em><br>
+  <em>Lead iOS Software Engineer at <a href="https://github.com/adidas">@adidas<br>
   <em>🇧🇷 Brazilian · 📍 Amsterdam, Netherlands</em>
 </p>
 
