@@ -32,7 +32,7 @@ iOS Engineer and Architect with expertise in building scalable mobile applicatio
 
 | Talk | Event | Lang | Link |
 |------|-------|------|------|
-| **Modular at Scale: 250+ modules across adidas Apps** | NSSpain (2025) | EN | [▶️ Watch](https://www.youtube.com/watch?v=Rc-S9RnDuLI) |
+| **Modular at Scale: How We Structured 250+ Modules Across the adidas Apps Ecosystem** | [NSSpain (2025)](https://2025.nsspain.com/schedule) | EN | [▶️ Watch](https://www.youtube.com/watch?v=Rc-S9RnDuLI) |
 | **adidas Apps Architecture** | CocoaHeadsNL @ adidas HQ Amsterdam (2024) | EN | [▶️ Watch](https://www.youtube.com/watch?v=F6ezwCB8Ti0) |
 | **Dependency Injection: from passing parameters to property wrappers** | iOS Developers Global Summit (2022) | EN | [▶️ Watch](https://www.youtube.com/watch?v=M0c6DGNOUYc) |
 | **Injeção de Dependência com Swift** | Devpass (2022) | PT-BR | [▶️ Watch](https://www.youtube.com/watch?v=0DDeOw5JfIc) |
