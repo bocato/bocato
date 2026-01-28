@@ -8,7 +8,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bocato"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://bocato.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://twitter.com/dubocato"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://mentorcruise.com/mentor/eduardobocato/"><img src="https://img.shields.io/badge/MentorCruise-00B0D8?style=flat&logo=mentor&logoColor=white" alt="MentorCruise"></a>
 </p>
 
@@ -64,7 +63,6 @@ I'm passionate about helping others grow in their iOS careers. I offer mentoring
 <p align="center">
   <a href="https://www.linkedin.com/in/bocato">💼 LinkedIn</a> •
   <a href="https://bocato.medium.com">📝 Medium</a> •
-  <a href="https://twitter.com/dubocato">🐦 Twitter</a> •
   <a href="https://mentorcruise.com/mentor/eduardobocato/">🧑‍🏫 MentorCruise</a>
 </p>
 
