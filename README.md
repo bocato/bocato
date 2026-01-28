@@ -20,7 +20,7 @@ iOS Engineer and Architect with expertise in building scalable mobile applicatio
 
 - 🖍️ Wrote my first code with [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) at ~10, built my first website at 12
 - 📱 Wrote my first lines of **Objective-C** in 2010, **iOS as main stack since 2016**
-- 🚀 Shipped **15+ apps** across fintech, e-commerce, food delivery, groceries, and sports
+- 🚀 Shipped **15+ apps** across fintech, telecom, banking, e-commerce, food delivery, groceries, and sports
 - 🏢 Currently shaping the **adidas** Apps Ecosystem
 - 🎯 Specialized in **modularization**, **software architecture**, **code quality**, and **technical leadership**
 - 🌱 Exploring **Kotlin Multiplatform (KMP)** and **AI**
