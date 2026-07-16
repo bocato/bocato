@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eduardo Bocato 👋</h1>
 
 <p align="center">
-  <em>Lead iOS Software Engineer at <a href="https://github.com/adidas">@adidas<br>
+  <em>AI-Native Engineer & iOS Lead · Mobile Foundations at <a href="https://github.com/adidas">@adidas</a></em><br>
   <em>🇧🇷 Brazilian · 📍 Amsterdam, Netherlands</em>
 </p>
 
@@ -15,14 +15,15 @@
 
 ## 👨🏻‍💻 About Me
 
-iOS Engineer and Architect with expertise in building scalable mobile applications.
+iOS Engineer and Architect with 15+ years of craft, now bridging mobile foundations and AI-native engineering.
 
 - 🖍️ Wrote my first code with [Logo](https://en.wikipedia.org/wiki/Logo_(programming_language)) at ~10, built my first website at 12
-- 📱 Wrote my first lines of **Objective-C** in 2010, **iOS as main stack since 2016**
+- 📱 Wrote my first lines of **Objective-C** in 2010, **iOS as main stack since 2016** (Swift, SwiftUI, TCA)
 - 🚀 Shipped **15+ apps** across fintech, telecom, banking, e-commerce, food delivery, groceries, and sports
-- 🏢 Currently shaping the **adidas** Apps Ecosystem
-- 🎯 Specialized in **modularization**, **software architecture**, **code quality**, and **technical leadership**
-- 🌱 Exploring **Kotlin Multiplatform (KMP)** and **AI**
+- 🤖 Building the **cross-agent AI platform & agentic delivery tooling** used across teams at **adidas** — moving engineering from one-off prompting to governed, human-gated agentic delivery
+- 🏗️ Shaping the **Mobile Foundations** of the adidas Apps Ecosystem — modularization strategy that cut build times by **~60%** across **250+ modules**
+- 🎯 Specialized in **software architecture**, **developer experience**, **AI-assisted engineering**, and **technical leadership**
+- 🌱 Exploring **Kotlin Multiplatform (KMP)**
 - 🎤 Trying to public speak and share my experiences
 
 ---
@@ -44,6 +45,7 @@ I'm passionate about helping others grow in their iOS careers. I offer mentoring
 
 - 📱 **iOS Development** & **Swift**
 - 🏗️ **Software Architecture** & **Large Scale Apps**
+- 🤖 **AI-Assisted Engineering** & **Agentic Workflows**
 - 👥 **Leadership** & **Team Culture**
 
 <p align="center">
